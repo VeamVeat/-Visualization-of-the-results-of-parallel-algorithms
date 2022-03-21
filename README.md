@@ -10,3 +10,6 @@
 Реализовать многопоточные вычисления;
 Реализовать алгоритм построение изолиний на графике уровней;
 Реализовать обработку и проигрывание кадров функции;
+
+![diplom_bakalavr1](https://user-images.githubusercontent.com/67123448/159260989-fdd93aec-703d-4396-9e0f-44358d023afb.png)
+![diplom_bakalavr2](https://user-images.githubusercontent.com/67123448/159261005-098a8e9e-5077-4673-9305-5313a62e60f0.png)
